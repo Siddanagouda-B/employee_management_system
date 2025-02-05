@@ -1,1 +1,1 @@
-An Employee Management System (EMS) helps manage employee data, attendance, leave, payroll, and performance. It streamlines HR tasks, tracks employee history, and generates reports. With role-based access and a self-service portal, EMS improves efficiency, accuracy, and employee satisfaction in organizations.
+
